@@ -302,6 +302,9 @@
   .about-option2 {
     text-decoration: none;
   }
+  .about-image1 {
+    width: 630px;
+  }
   .about-content-container {
     background-color: #faebd6;
   }
@@ -326,10 +329,13 @@
   .about-text12 {
     color: var(--dl-color-scheme-black);
   }
+  .about-image2 {
+    width: 700px;
+  }
 }
 @media(max-width: 1200px) {
   .about-image1 {
-    width: 666px;
+    width: 50%;
     height: 1184px;
     margin-right: 0px;
   }
@@ -354,6 +360,9 @@
   .about-content-container1 {
     background-color: #faebd6;
   }
+  .about-container5 {
+    width: 550px;
+  }
   .about-text09 {
     background-color: var(--dl-color-danger-300);
   }
@@ -364,8 +373,9 @@
     color: var(--dl-color-scheme-black);
   }
   .about-image2 {
-    width: 663px;
+    width: 463px;
     height: 1013px;
+    margin-left: 0px;
   }
 }
 @media(max-width: 991px) {
