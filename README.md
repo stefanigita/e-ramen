@@ -1,4 +1,11 @@
 # e-ramen website for AOL LAB HCI
+# Name : Stefani Gitawardani
+# NIM : 2602125161
+
+-----------------------
+Contain: Home Page, About Us, Menu, Promo, Contact Us. 
+
+-----------------------
 
 # resources : 
 karage illustration : https://id.pinterest.com/pin/48835977198761719/
@@ -55,18 +62,16 @@ beverage
 -draft beer: https://www.theheyheyhey.com/2016/06/ichiran-ramen-fukuoka.html
 -mineral water: https://id.pinterest.com/pin/455145106067334209/
 -Pilsner Urquell: https://id.pinterest.com/pin/44613852548640117/
------------------------
 
+-----------------------
 
 Testimonial 
 
 Testimonial 1: https://montecristomagazine.com/food-and-drink/vancouver-legendary-sushi-chef-hidekazu-tojo-invented-california-roll
 Testimonial 2: https://www.nytimes.com/2015/03/29/travel/lanshu-chen-dining-well-while-on-the-road.html
 Testimonial 3: https://lifestyle.inquirer.net/307041/award-winning-japanese-chef-conrad-manilas-brasserie-3/
+
 -----------------------
 
 tantanmen: https://id.pinterest.com/pin/6051780739863029/
 ramen shop: https://id.pinterest.com/pin/436286282663760683/
-
------------------------
-Contain: Home Page, About Us, Menu, Promo, Contact Us. 
