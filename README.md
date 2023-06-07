@@ -13,7 +13,7 @@ spicy miso ramen: https://pin.it/1TDadMv
 black tofu: AI midjourney
 
 -----------------------
-ALL MENU per series:
+# ALL MENU per series:
 
 ramen
 -tonkotsu: https://id.pinterest.com/pin/86764730314033825/
@@ -67,3 +67,6 @@ Testimonial 3: https://lifestyle.inquirer.net/307041/award-winning-japanese-chef
 
 tantanmen: https://id.pinterest.com/pin/6051780739863029/
 ramen shop: https://id.pinterest.com/pin/436286282663760683/
+
+-----------------------
+Contain: Home Page, About Us, Menu, Promo, Contact Us. 
