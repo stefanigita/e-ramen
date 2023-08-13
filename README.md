@@ -1,10 +1,8 @@
-# e-ramen website for AOL LAB HCI
+# e-ramen website 
 # Name : Stefani Gitawardani
 # NIM : 2602125161
-
 -----------------------
 Contain: Home Page, About Us, Menu, Promo, Contact Us. 
-
 -----------------------
 
 # resources : 
